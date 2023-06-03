@@ -49,7 +49,7 @@ sudo docker run hello-world
 - **A .pfx file**
 - **Openssl-1.1.1q version**
 
-First, you need to have the wild card certificate with a **.pfx** extension that includes the official certificate and its key protected by a passphrase.
+First, you need to be having a wild card certificate with a **.pfx** extension that includes the official certificate and its key protected by a passphrase.
 
 To extract the certificate and the key, it is needed to use **OpenSSL** to do that job.
 
