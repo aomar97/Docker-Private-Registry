@@ -53,7 +53,7 @@ To extract the certificate and the key, it is needed to use **OpenSSL** to do th
 
 The preinstalled OpenSSL by default in Ubuntu 22.04 is **3.0.2-0ubuntu1.6**
 
-![Untitled.png](Docker%20Registry%20Setup%20with%20Secure%20Connection,%20Auth%20b4edfd26de4445c1b14bb45fdbdeaea1/Untitled.png)
+![Docker-Private-Registry/Untitled.png](https://github.com/aomar97/Docker-Private-Registry/blob/cd48704af9cbe1320b20b5415c5621a63e696a34/Untitled.png)
 
 After some attempts to extract the certificate and key from the .pfx file using the OpenSSL command
 
