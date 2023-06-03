@@ -1,5 +1,7 @@
 # Docker Registry Setup with Secure Connection, Authentication and Authorization
 
+![https://github.com/aomar97/Docker-Private-Registry/blob/3cb606ffdf94ecc9f730ea59a045be590a625a80/Docker%20Registry%20Architecture.png](https://github.com/aomar97/Docker-Private-Registry/blob/3cb606ffdf94ecc9f730ea59a045be590a625a80/Docker%20Registry%20Architecture.png)
+
 # Docker Installation and Setup
 
 To install docker with the required dependencies needed just create a bash file to run this script
